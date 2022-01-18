@@ -1,0 +1,36 @@
+{
+	"name": "Vas0sky HD Collection",
+	"version": 22.0118,
+	"packages": {
+		"vas_hdfont": {
+			"description": "HD Font by Gotolei and Vas0sky",
+			"version": 22.0118,
+			"checksum": "",
+			"file": "vas_hdfont.zip"
+		},
+		"vas_hdgfx": {
+			"description": "HD GFX for stock tracks by NVT_06",
+			"version": 22.0118,
+			"checksum": "",
+			"file": "vas_hdgfx.zip"
+		},
+		"vas_hdcarbox": {
+			"description": "HD Carboxes for stock cars by Xarc",
+			"version": 22.0118,
+			"checksum": "",
+			"file": "vas_hdcarbox.zip"
+		},
+		"vas_hdloadfront": {
+			"description": "HD Loading Screens for stock tracks by MED",
+			"version": 22.0118,
+			"checksum": "",
+			"file": "vas_hdloadfront.zip",
+		},
+		"vas_hdfrontend": {
+			"description": "HD Frontends by Kiwi",
+			"version": 22.0118,
+			"checksum": "",
+			"file": "vas_hdfrontend.zip"
+		}
+	}
+}
