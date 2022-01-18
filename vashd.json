@@ -6,30 +6,35 @@
 			"description": "HD Font by Gotolei and Vas0sky",
 			"version": 22.0118,
 			"checksum": "90315664c2959b095d8ebf27e670918182a9e5e79b5fcd84a96d5cdf1a2886f0",
+			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdfont.zip",
 			"file": "vas_hdfont.zip"
 		},
 		"vas_hdgfx": {
 			"description": "HD GFX for stock tracks by NVT_06",
 			"version": 22.0118,
 			"checksum": "f8c849cad2befd7b2d125f17d6337274b80023c7aa1af785c29531cd14844cbf",
+			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdgfx.zip",
 			"file": "vas_hdgfx.zip"
 		},
 		"vas_hdcarbox": {
 			"description": "HD Carboxes for stock cars by Xarc",
 			"version": 22.0118,
 			"checksum": "96b42fb52ca0fb17c8794a41ef26f19a593782c98384177ddde23ad535520b22",
+			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdcarbox.zip",
 			"file": "vas_hdcarbox.zip"
 		},
 		"vas_hdloadfront": {
 			"description": "HD Loading Screens for stock tracks by MED",
 			"version": 22.0118,
 			"checksum": "4995d4af466309b3294516a106dde67c15c876345d043809edb4403be3fe47da",
+			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdloadfront.zip",
 			"file": "vas_hdloadfront.zip",
 		},
 		"vas_hdfrontend": {
 			"description": "HD Frontends by Kiwi",
 			"version": 22.0118,
 			"checksum": "f2480869c76d848b01c5c763f4b8d82f7c30d2a04bd94cb8a80d3f50e21e0cee",
+			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdfrontend.7z",
 			"file": "vas_hdfrontend.7z"
 		}
 	}
