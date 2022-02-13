@@ -11,8 +11,8 @@
 		},
 		"vas_hdgfx": {
 			"description": "HD GFX for stock tracks by NVT_06",
-			"version": 22.0118,
-			"checksum": "f8c849cad2befd7b2d125f17d6337274b80023c7aa1af785c29531cd14844cbf",
+			"version": 22.0214,
+			"checksum": "f4ceb9e8b7765b06d078ee37fa9d2b3e5caf6ca6cbdd7b3a412822e276673ed9",
 			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdgfx.zip",
 			"file": "vas_hdgfx.zip"
 		},
