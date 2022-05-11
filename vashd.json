@@ -1,10 +1,10 @@
 {
 	"name": "Vas0sky HD Collection",
-	"version": "22.0214",
+	"version": "22.0511",
 	"packages": {
 		"vas_hdfont": {
 			"description": "HD Font by Gotolei and Vas0sky",
-			"version": "22.0118",
+			"version": "22.0511",
 			"checksum": "fa15f8a031c2be790002065c9a676f9eed9dba5c688b42aa1215976739c6375b",
 			"url": "https://github.com/Vas0sky/vas-hd/raw/main/vas_hdfont.zip",
 			"file": "vas_hdfont.zip"
