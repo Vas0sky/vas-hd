@@ -32,8 +32,8 @@
 		},
 		"vas_hdfrontend": {
 			"description": "HD Frontends by Kiwi",
-			"version": "22.0214",
-			"checksum": "b9563acb27414aa9d458ca26c3eda9a5a053436b0b21bd4d91fa9161029ed34e",
+			"version": "22.1004",
+			"checksum": "a69a8dbce2a2bf7a604c7ecf97f34fa22aaf8017104de034aa736fd8ecf95e97",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdfrontend.zip",
 			"file": "vas_hdfrontend.zip"
 		}
