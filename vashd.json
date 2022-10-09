@@ -1,6 +1,6 @@
 {
 	"name": "Vas0sky HD Collection",
-	"version": "22.0516",
+	"version": "22.1009",
 	"packages": {
 		"vas_hdfont": {
 			"description": "HD Font by Gotolei and Vas0sky",
@@ -11,8 +11,8 @@
 		},
 		"vas_hdgfx": {
 			"description": "HD GFX for stock tracks by NVT_06",
-			"version": "22.0214",
-			"checksum": "f4ceb9e8b7765b06d078ee37fa9d2b3e5caf6ca6cbdd7b3a412822e276673ed9",
+			"version": "22.1009",
+			"checksum": "44cfe0c70eb3418361e3e97ab39fc7a551410dc0c52a1344ec5232c2a726d196",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdgfx.zip",
 			"file": "vas_hdgfx.zip"
 		},
