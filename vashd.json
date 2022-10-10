@@ -25,8 +25,8 @@
 		},
 		"vas_hdloadfront": {
 			"description": "HD Loading Screens for stock tracks by MED",
-			"version": "22.0118",
-			"checksum": "4995d4af466309b3294516a106dde67c15c876345d043809edb4403be3fe47da",
+			"version": "22.1009",
+			"checksum": "1b405978374cc1f4dc3c3f3ef257a414d2b9accaccf44446bb4005dcfb86dd9e",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdloadfront.zip",
 			"file": "vas_hdloadfront.zip"
 		},
