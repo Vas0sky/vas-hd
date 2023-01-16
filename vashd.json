@@ -1,6 +1,6 @@
 {
 	"name": "Vas0sky HD Collection",
-	"version": "23.0103",
+	"version": "23.0116",
 	"packages": {
 		"vas_hdfont": {
 			"description": "HD Font by Gotolei and Vas0sky",
@@ -32,8 +32,8 @@
 		},
 		"vas_hdfrontend": {
 			"description": "HD Frontends by Kiwi",
-			"version": "23.0103",
-			"checksum": "5f1cc0ec37d45a371196537f83560abc49a798541a2fe951ec9b565cf0ac83cc",
+			"version": "23.0116",
+			"checksum": "ae4ff8efa2744130464865a1b6818b720dfa784b3daeeb4e0ad96c807fc052ab",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdfrontend.zip",
 			"file": "vas_hdfrontend.zip"
 		}
