@@ -1,6 +1,6 @@
 {
 	"name": "Vas0sky HD Collection",
-	"version": "23.0618",
+	"version": "26.0920",
 	"packages": {
 		"vas_hdfont": {
 			"description": "HD Font by Gotolei and Vas0sky",
@@ -11,8 +11,8 @@
 		},
 		"vas_hdgfx": {
 			"description": "HD GFX for stock tracks by NVT_06",
-			"version": "23.0618",
-			"checksum": "e7b7a56856a034ca40ebf47bca83c92b2733e6166c7d138454088689d1f94e04",
+			"version": "26.0920",
+			"checksum": "04a3a4004978d333cdf304d4e15fc325f4e578947412975c49d8a1691ba4ab4e",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdgfx.zip",
 			"file": "vas_hdgfx.zip"
 		},
@@ -36,6 +36,13 @@
 			"checksum": "a2b2b877cefd1540a2d48128c1035c74eae9357fcc85805a4f160424085dd3f9",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdfrontend.zip",
 			"file": "vas_hdfrontend.zip"
+		},
+		"vas_hddiamond": {
+			"description": "HD FxPage and Spru by Tacita",
+			"version": "26.0920",
+			"checksum": "d7e00cb055c3264012fb86a0f9437365cb501c7c001004c480fabfda2a5d370e",
+			"url": "https://vas0sky.github.io/vas-hd/vas_hdfxpage.zip",
+			"file": "vas_hdfxpage.zip"
 		},
 		"vas_hddiamond": {
 			"description": "HD Diamond Cup by Kiwi, cars and tracks by various autors",
