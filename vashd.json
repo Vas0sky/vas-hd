@@ -12,7 +12,7 @@
 		"vas_hdgfx": {
 			"description": "HD GFX for stock tracks by NVT_06",
 			"version": "26.0920",
-			"checksum": "04a3a4004978d333cdf304d4e15fc325f4e578947412975c49d8a1691ba4ab4e",
+			"checksum": "9bdd6df0b8c919017a3340ee413b2c3929a553c8c4557774f5f950e27f322d43",
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdgfx.zip",
 			"file": "vas_hdgfx.zip"
 		},
@@ -37,7 +37,7 @@
 			"url": "https://vas0sky.github.io/vas-hd/vas_hdfrontend.zip",
 			"file": "vas_hdfrontend.zip"
 		},
-		"vas_hddiamond": {
+		"vas_hdfxpage": {
 			"description": "HD FxPage and Spru by Tacita",
 			"version": "26.0920",
 			"checksum": "d7e00cb055c3264012fb86a0f9437365cb501c7c001004c480fabfda2a5d370e",
